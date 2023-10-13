@@ -1,0 +1,27 @@
+#Front {
+    -webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-width: 0.05pc;
+    letter-spacing: 2pc;
+    text-align: center;
+    color: #57052a;
+    padding-top: 50px;
+}
+
+#Statement {
+    text-align: center;
+    word-spacing: 15px;
+    opacity: 50%;
+    color: black;
+    font-size: medium;
+}
+
+#Main-Content{
+    background-color: #ffffff;
+    width: 450px;
+    border: 5px solid rgb(27, 6, 84);
+    padding: 500px;
+    padding-bottom: 700px;
+    margin-top: 200px;
+    margin-left: 215px;
+}
+
